@@ -7,7 +7,7 @@ Projeto de website desenvolvido utilizando HTML e CSS, com foco em design modern
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/preview.png" width="700"/>
+  <img src="image.png" width="700"/>
 </p>
 
 ---
