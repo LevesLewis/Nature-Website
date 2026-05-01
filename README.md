@@ -14,7 +14,7 @@ Projeto de website desenvolvido utilizando HTML e CSS, com foco em design modern
 
 ## 🚀 Acesse o projeto
 
-🔗 [https://seu-link-aqui.com](https://leveslewis.github.io/Nature-Website/)
+🔗 https://leveslewis.github.io/Nature-Website/
 
 ---
 
